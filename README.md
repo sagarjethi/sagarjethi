@@ -74,7 +74,7 @@ Currently, I am working as  Full Stack Blockchain Developer  as Freelance, Ahmed
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 #### My Portfolio ####
-- 📫 My Resume: [View PDF](https://cvdesignr.com/p/5ebe8c2c4bc7e?hl=en_GB)
+- 📫 My Resume: [View PDF](https://cvdesignr.com/p/620ce2bbecb2c)
 
 
 ### Skills ###
