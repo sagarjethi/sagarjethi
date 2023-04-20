@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="scalarvector1003">
+</p>
+<hr/>
 <div>
   <a href="https://github.com/viking03265">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
