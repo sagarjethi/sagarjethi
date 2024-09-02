@@ -87,7 +87,7 @@ Currently, I am working as  Full Stack Blockchain Developer  as Freelance, Ahmed
 - Languages - **Solidity,JavaScript & HTML,CSS**
 - Libraries/Frameworks: - **Bootstrap, React, Vue, NodeJS, ExpressJS, Laravel and REST API**
 - Tools: - **Hardhat, Truffle, Ganache, Git**
-- Blockchain Experinced in -: **Ethereum, Binance Smart Chain, Polygon(prev. Matic), Hyper Ledger, Solana and Tron**
+- Blockchain Experinced in -: **Solana, Ethereum, Binance Smart Chain, Polygon(prev. Matic), Hyper Ledger and Tron**
 
 ### Github Readme Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
