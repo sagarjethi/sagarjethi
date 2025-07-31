@@ -61,7 +61,7 @@
 <a href="https://www.linkedin.com/in/sagarjethi">
   <img align="left" alt="Akshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:sagar.jethi007@gmail.com">
+<a href="mailto:sagarjethi65@gmail.com">
   <img align="left" alt="Akshit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://github.com/sagarjethi">
