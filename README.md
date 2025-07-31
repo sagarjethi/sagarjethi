@@ -61,8 +61,8 @@
 <a href="https://www.linkedin.com/in/sagarjethi">
   <img align="left" alt="Akshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:sagarjethi007@gmail.com">
-  <img align="left" alt="Akshit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:sagar.jethi007@gmail.com">
+  <img align="left" alt="Sagar jethi 's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://github.com/sagarjethi">
   <img align="left" alt="Sagar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
