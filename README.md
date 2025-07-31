@@ -74,7 +74,7 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am working as  Full Stack Blockchain Developer  as Freelance, Ahmedabad,So don't hesitate to contact at sagar.jethi007@gmail.com or [LinkedIn](https://www.linkedin.com/in/sagarjethi) for the services.
+Currently, I am working as  Full Stack Blockchain Developer  as Freelance, Ahmedabad,So don't hesitate to contact at sagarjethi65@gmail.com or [LinkedIn](https://www.linkedin.com/in/sagarjethi) for the services.
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
