@@ -20,12 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-## 📈 GitHub Stats
-Who said stats are boring? Certainly, not me!
-</br></br>
-![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjethi&show_icons=true&theme=dark)
-
-
 
 ## 🛠️ Technical Skills & Tools
 
@@ -40,6 +34,12 @@ Who said stats are boring? Certainly, not me!
 - **Other Tools:** VSCode, Vim, Git, GitHub, GitLab, Figma (for rapid prototyping), Chrome DevTools
 
 ---
+## 📈 GitHub Stats
+Who said stats are boring? Certainly, not me!
+</br></br>
+![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjethi&show_icons=true&theme=dark)
+
+
 
 ## 🌎 Professional Focus
 
