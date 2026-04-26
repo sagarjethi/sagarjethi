@@ -23,7 +23,7 @@
 ## 📈 GitHub Stats
 Who said stats are boring? Certainly, not me!
 </br></br>
-![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishant0406&show_icons=true&theme=dark)
+![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjethi&show_icons=true&theme=dark)
 
 
 
